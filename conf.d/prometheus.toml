@@ -1,0 +1,5 @@
+[template]
+src="prometheus.yml.tmpl"
+dest="/etc/prom-conf/prometheus.yml"
+keys= [
+]

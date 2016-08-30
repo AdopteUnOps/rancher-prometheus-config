@@ -2,4 +2,5 @@
 src="prometheus.yml.tmpl"
 dest="/etc/prom-conf/prometheus.yml"
 keys= [
+  "/self/service/metadata/prometheus-config"
 ]

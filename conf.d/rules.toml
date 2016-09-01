@@ -1,0 +1,6 @@
+[template]
+src="rules.yml.tmpl"
+dest="/etc/prom-conf/rules.yml"
+keys= [
+  "/self/service/metadata/prometheus-rules"
+]
